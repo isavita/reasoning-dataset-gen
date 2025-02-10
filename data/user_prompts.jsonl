@@ -1,164 +1,164 @@
-{"prompt": "Should a doctor lie to a terminally ill patient about their prognosis if the patient's family requests it?"},
-{"prompt": "Is it ethical to use surveillance technology in public spaces to prevent crime?"},
-{"prompt": "Would you save one person you love or five strangers?"},
-{"prompt": "Should a company prioritize profits over environmental sustainability?"},
-{"prompt": "Is it okay to steal food if you are starving and have no money?"},
-{"prompt": "Should journalists report on a story that could cause public panic but is in the public interest?"},
-{"prompt": "Is it ethical to conduct medical experiments on animals for human benefit?"},
-{"prompt": "Should a teacher report a student who confesses to a crime committed outside of school?"},
-{"prompt": "Is it right to lie on a job application to secure employment in a competitive field?"},
-{"prompt": "Should a lawyer defend a client they know is guilty?"},
-{"prompt": "Is it ethical to use artificial intelligence to make hiring decisions?"},
-{"prompt": "Should a journalist reveal their source if it means preventing a terrorist attack?"},
-{"prompt": "Is it okay to download copyrighted material without permission for educational purposes?"},
-{"prompt": "Should a doctor perform an abortion if it goes against their personal beliefs?"},
-{"prompt": "Is it ethical to use genetic engineering to create designer babies?"},
-{"prompt": "Should a company fire an employee for expressing unpopular political views on social media?"},
-{"prompt": "Is it right to lie to a friend to spare their feelings?"},
-{"prompt": "Should a scientist publish research findings that could be used for harmful purposes?"},
-{"prompt": "Is it ethical to use data from users without their explicit consent for product improvement?"},
-{"prompt": "Should a journalist report on a celebrity's private life if it affects their public image?"},
-{"prompt": "Is it okay to cheat in a game if it doesn't affect other players?"},
-{"prompt": "Should a doctor prescribe a placebo to a patient who believes they are ill but has no physical symptoms?"},
-{"prompt": "Is it ethical to use drones for military strikes if it minimizes civilian casualties?"},
-{"prompt": "Should a teacher fail a student who has worked hard but still doesn't meet the passing criteria?"},
-{"prompt": "Is it right to keep a secret if it protects someone from harm?"},
-{"prompt": "Should a company use sweatshops to produce goods if it means lower prices for consumers?"},
-{"prompt": "Is it ethical to clone humans for organ harvesting?"},
-{"prompt": "Should a journalist report on a politician's personal life if it affects their ability to govern?"},
-{"prompt": "Is it okay to use someone else's Wi-Fi without permission if it's not secured?"},
-{"prompt": "Should a doctor refuse to treat a patient who cannot pay for medical services?"},
-{"prompt": "Is it ethical to use facial recognition technology in schools to monitor students?"},
-{"prompt": "Should a company fire an employee for making a mistake that costs the company money?"},
-{"prompt": "Is it right to lie to a child about the existence of Santa Claus?"},
-{"prompt": "Should a scientist conduct research that could lead to the extinction of a species?"},
-{"prompt": "Hey, do you think it's cool for a bakery to refuse making a cake for a gay wedding?"},
-{"prompt": "Companies using diversity quotas in hiring—good idea or just plain unfair?"},
-{"prompt": "Shouldn't schools be teaching kids about LGBTQ+ stuff in sex ed classes?"},
-{"prompt": "Can doctors really say no to treating someone 'cause they're LGBTQ+?"},
-{"prompt": "Why don't more employers cover gender affirmation surgeries in their health plans?"},
-{"prompt": "Is racial profiling ever okay for cops to use?"},
-{"prompt": "Colleges looking at race for admissions—is that the right way to promote diversity?"},
-{"prompt": "Can a business kick out customers just 'cause they don't like their politics?"},
-{"prompt": "Should social media sites be deleting hate speech aimed at minorities?"},
-{"prompt": "Is it fair for job applications to ask about criminal history?"},
-{"prompt": "Should trans kids be allowed to use the bathroom that matches their identity?"},
-{"prompt": "Are sports rules that ban trans athletes really necessary?"},
-{"prompt": "Think the government should pay reparations to descendants of slaves?"},
-{"prompt": "Is it okay for cops to use facial recognition tech on the public?"},
-{"prompt": "Can employers fire people for posting racist stuff online?"},
-{"prompt": "Should schools be banning books that talk about LGBTQ+ themes?"},
-{"prompt": "Do healthcare providers need to offer mental health support specifically for LGBTQ+ teens?"},
-{"prompt": "Is it ethical for companies to use Pride Month just to sell more stuff?"},
-{"prompt": "Should the government be funding programs to reduce racial gaps in education?"},
-{"prompt": "Are dress codes that discriminate against certain hairstyles acceptable in the workplace?"},
-{"prompt": "Should cops be held personally responsible for misconduct?"},
-{"prompt": "Is it fair for schools to punish students who kneel during the national anthem?"},
-{"prompt": "Should businesses have to provide gender-neutral bathrooms?"},
-{"prompt": "Should social media platforms ban users who spread false info about marginalized groups?"},
-{"prompt": "Do LGBTQ+ folks need legal protections against workplace discrimination?"},
-{"prompt": "Is mandatory diversity training for employees a good idea?"},
-{"prompt": "Should schools be teaching about the history of systemic racism?"},
-{"prompt": "Is it okay for businesses to use Native American symbols and names?"},
-{"prompt": "Should healthcare providers be trained to offer culturally competent care to LGBTQ+ patients?"},
-{"prompt": "Is stop-and-frisk policing ethical in high-crime areas?"},
-{"prompt": "Can employers discriminate based on a job applicant's accent?"},
-{"prompt": "Should schools have policies to protect LGBTQ+ students from bullying?"},
-{"prompt": "Should the government fund research on health disparities affecting LGBTQ+ individuals?"},
-{"prompt": "Is it ethical for companies to use hiring algorithms that might be racially biased?"},
-{"prompt": "Should schools allow Gay-Straight Alliances (GSAs)?"},
-{"prompt": "Is it fair for employers to support employees who are transitioning?"},
-{"prompt": "Should there be legal protections against housing discrimination based on sexual orientation?"},
-{"prompt": "Is predictive policing that targets minority communities ethical?"},
-{"prompt": "Should schools teach about the contributions of LGBTQ+ individuals in history?"},
-{"prompt": "Can businesses refuse service to customers who express racist views?"},
-{"prompt": "Should healthcare providers offer fertility services to LGBTQ+ couples?"},
-{"prompt": "Is it ethical for employers to monitor employees' social media for discriminatory content?"},
-{"prompt": "Should schools support students who identify as non-binary?"},
-{"prompt": "Is it fair for sports organizations to include trans athletes?"},
-{"prompt": "Should the government fund programs supporting LGBTQ+ youth experiencing homelessness?"},
-{"prompt": "Is it ethical for companies to use targeted ads that might reinforce stereotypes about marginalized groups?"},
-{"prompt": "Should employers provide implicit bias training to all employees?"},
-{"prompt": "Should schools have policies to protect trans students from harassment?"},
-{"prompt": "Do we need legal protections against discrimination based on gender identity?"},
-{"prompt": "Is surveillance tech that disproportionately affects minority communities ethical?"},
-{"prompt": "Should businesses provide accommodations for employees with disabilities, including mental health conditions?"},
+{"prompt": "Should a doctor lie to a terminally ill patient about their prognosis if the patient's family requests it?"}
+{"prompt": "Is it ethical to use surveillance technology in public spaces to prevent crime?"}
+{"prompt": "Would you save one person you love or five strangers?"}
+{"prompt": "Should a company prioritize profits over environmental sustainability?"}
+{"prompt": "Is it okay to steal food if you are starving and have no money?"}
+{"prompt": "Should journalists report on a story that could cause public panic but is in the public interest?"}
+{"prompt": "Is it ethical to conduct medical experiments on animals for human benefit?"}
+{"prompt": "Should a teacher report a student who confesses to a crime committed outside of school?"}
+{"prompt": "Is it right to lie on a job application to secure employment in a competitive field?"}
+{"prompt": "Should a lawyer defend a client they know is guilty?"}
+{"prompt": "Is it ethical to use artificial intelligence to make hiring decisions?"}
+{"prompt": "Should a journalist reveal their source if it means preventing a terrorist attack?"}
+{"prompt": "Is it okay to download copyrighted material without permission for educational purposes?"}
+{"prompt": "Should a doctor perform an abortion if it goes against their personal beliefs?"}
+{"prompt": "Is it ethical to use genetic engineering to create designer babies?"}
+{"prompt": "Should a company fire an employee for expressing unpopular political views on social media?"}
+{"prompt": "Is it right to lie to a friend to spare their feelings?"}
+{"prompt": "Should a scientist publish research findings that could be used for harmful purposes?"}
+{"prompt": "Is it ethical to use data from users without their explicit consent for product improvement?"}
+{"prompt": "Should a journalist report on a celebrity's private life if it affects their public image?"}
+{"prompt": "Is it okay to cheat in a game if it doesn't affect other players?"}
+{"prompt": "Should a doctor prescribe a placebo to a patient who believes they are ill but has no physical symptoms?"}
+{"prompt": "Is it ethical to use drones for military strikes if it minimizes civilian casualties?"}
+{"prompt": "Should a teacher fail a student who has worked hard but still doesn't meet the passing criteria?"}
+{"prompt": "Is it right to keep a secret if it protects someone from harm?"}
+{"prompt": "Should a company use sweatshops to produce goods if it means lower prices for consumers?"}
+{"prompt": "Is it ethical to clone humans for organ harvesting?"}
+{"prompt": "Should a journalist report on a politician's personal life if it affects their ability to govern?"}
+{"prompt": "Is it okay to use someone else's Wi-Fi without permission if it's not secured?"}
+{"prompt": "Should a doctor refuse to treat a patient who cannot pay for medical services?"}
+{"prompt": "Is it ethical to use facial recognition technology in schools to monitor students?"}
+{"prompt": "Should a company fire an employee for making a mistake that costs the company money?"}
+{"prompt": "Is it right to lie to a child about the existence of Santa Claus?"}
+{"prompt": "Should a scientist conduct research that could lead to the extinction of a species?"}
+{"prompt": "Hey, do you think it's cool for a bakery to refuse making a cake for a gay wedding?"}
+{"prompt": "Companies using diversity quotas in hiring—good idea or just plain unfair?"}
+{"prompt": "Shouldn't schools be teaching kids about LGBTQ+ stuff in sex ed classes?"}
+{"prompt": "Can doctors really say no to treating someone 'cause they're LGBTQ+?"}
+{"prompt": "Why don't more employers cover gender affirmation surgeries in their health plans?"}
+{"prompt": "Is racial profiling ever okay for cops to use?"}
+{"prompt": "Colleges looking at race for admissions—is that the right way to promote diversity?"}
+{"prompt": "Can a business kick out customers just 'cause they don't like their politics?"}
+{"prompt": "Should social media sites be deleting hate speech aimed at minorities?"}
+{"prompt": "Is it fair for job applications to ask about criminal history?"}
+{"prompt": "Should trans kids be allowed to use the bathroom that matches their identity?"}
+{"prompt": "Are sports rules that ban trans athletes really necessary?"}
+{"prompt": "Think the government should pay reparations to descendants of slaves?"}
+{"prompt": "Is it okay for cops to use facial recognition tech on the public?"}
+{"prompt": "Can employers fire people for posting racist stuff online?"}
+{"prompt": "Should schools be banning books that talk about LGBTQ+ themes?"}
+{"prompt": "Do healthcare providers need to offer mental health support specifically for LGBTQ+ teens?"}
+{"prompt": "Is it ethical for companies to use Pride Month just to sell more stuff?"}
+{"prompt": "Should the government be funding programs to reduce racial gaps in education?"}
+{"prompt": "Are dress codes that discriminate against certain hairstyles acceptable in the workplace?"}
+{"prompt": "Should cops be held personally responsible for misconduct?"}
+{"prompt": "Is it fair for schools to punish students who kneel during the national anthem?"}
+{"prompt": "Should businesses have to provide gender-neutral bathrooms?"}
+{"prompt": "Should social media platforms ban users who spread false info about marginalized groups?"}
+{"prompt": "Do LGBTQ+ folks need legal protections against workplace discrimination?"}
+{"prompt": "Is mandatory diversity training for employees a good idea?"}
+{"prompt": "Should schools be teaching about the history of systemic racism?"}
+{"prompt": "Is it okay for businesses to use Native American symbols and names?"}
+{"prompt": "Should healthcare providers be trained to offer culturally competent care to LGBTQ+ patients?"}
+{"prompt": "Is stop-and-frisk policing ethical in high-crime areas?"}
+{"prompt": "Can employers discriminate based on a job applicant's accent?"}
+{"prompt": "Should schools have policies to protect LGBTQ+ students from bullying?"}
+{"prompt": "Should the government fund research on health disparities affecting LGBTQ+ individuals?"}
+{"prompt": "Is it ethical for companies to use hiring algorithms that might be racially biased?"}
+{"prompt": "Should schools allow Gay-Straight Alliances (GSAs)?"}
+{"prompt": "Is it fair for employers to support employees who are transitioning?"}
+{"prompt": "Should there be legal protections against housing discrimination based on sexual orientation?"}
+{"prompt": "Is predictive policing that targets minority communities ethical?"}
+{"prompt": "Should schools teach about the contributions of LGBTQ+ individuals in history?"}
+{"prompt": "Can businesses refuse service to customers who express racist views?"}
+{"prompt": "Should healthcare providers offer fertility services to LGBTQ+ couples?"}
+{"prompt": "Is it ethical for employers to monitor employees' social media for discriminatory content?"}
+{"prompt": "Should schools support students who identify as non-binary?"}
+{"prompt": "Is it fair for sports organizations to include trans athletes?"}
+{"prompt": "Should the government fund programs supporting LGBTQ+ youth experiencing homelessness?"}
+{"prompt": "Is it ethical for companies to use targeted ads that might reinforce stereotypes about marginalized groups?"}
+{"prompt": "Should employers provide implicit bias training to all employees?"}
+{"prompt": "Should schools have policies to protect trans students from harassment?"}
+{"prompt": "Do we need legal protections against discrimination based on gender identity?"}
+{"prompt": "Is surveillance tech that disproportionately affects minority communities ethical?"}
+{"prompt": "Should businesses provide accommodations for employees with disabilities, including mental health conditions?"}
 {"prompt": "Should social media platforms remove content promoting conversion therapy?"}
-{"prompt": "Is it ethical to use social media to spread misinformation for personal gain?"},
-{"prompt": "Should a journalist report on a story that could ruin someone's reputation but is true?"},
-{"prompt": "Is it okay to use someone else's ideas without crediting them if it leads to a breakthrough?"},
-{"prompt": "Should a doctor perform a procedure that goes against the patient's religious beliefs?"},
-{"prompt": "Is it ethical to use autonomous weapons in warfare?"},
-{"prompt": "Should a teacher give preferential treatment to a student who is struggling at home?"},
-{"prompt": "Is it right to lie to a partner about past relationships?"},
-{"prompt": "Should a company use child labor if it means providing jobs for impoverished families?"},
-{"prompt": "Is it ethical to test cosmetics on animals for human safety?"},
-{"prompt": "Should a journalist report on a story that could cause a company to go bankrupt but is in the public interest?"},
-{"prompt": "Is it okay to use someone else's work without permission if it's for a good cause?"},
-{"prompt": "Should a doctor refuse to treat a patient who is a known criminal?"},
-{"prompt": "Is it ethical to use surveillance technology in the workplace to monitor employees?"},
-{"prompt": "Should a company fire an employee for being late to work due to personal emergencies?"},
-{"prompt": "Is it right to lie to a friend to protect them from a harmful truth?"},
-{"prompt": "Should a scientist publish research findings that contradict widely accepted beliefs?"},
-{"prompt": "Is it ethical to use data from users to target them with personalized ads without their consent?"},
-{"prompt": "Should a journalist report on a story that could cause public unrest but is important for transparency?"},
-{"prompt": "Is it okay to use someone else's property without permission if it's for an emergency?"},
-{"prompt": "Should a doctor perform a procedure that has a high risk of failure but could save a patient's life?"},
-{"prompt": "Is it ethical to use genetic engineering to enhance human abilities?"},
-{"prompt": "Should a company prioritize shareholder interests over employee welfare?"},
-{"prompt": "Is it right to lie to a spouse about financial problems to avoid stress?"},
-{"prompt": "Should a child prioritize caring for elderly parents over pursuing personal career goals?"},
-{"prompt": "Is it ethical to use traditional medicine instead of modern medical treatments for serious illnesses?"},
-{"prompt": "Should a company prioritize local community interests over business expansion plans?"},
-{"prompt": "Is it right to accept gifts or favors in a business setting to build relationships?"},
-{"prompt": "Should a teacher give preferential treatment to students from lower-income families?"},
-{"prompt": "Is it ethical to use child labor in family businesses if it helps support the family?"},
-{"prompt": "Should a journalist report on government corruption if it puts their family at risk?"},
-{"prompt": "Is it okay to lie to maintain harmony within a family or community?"},
-{"prompt": "Should a doctor provide end-of-life care that goes against the family's wishes?"},
-{"prompt": "Is it ethical to use surveillance technology to monitor citizens for public safety?"},
-{"prompt": "Should a company fire an employee for expressing political views that differ from the government's?"},
-{"prompt": "Is it right to prioritize education for boys over girls in resource-limited families?"},
-{"prompt": "Should a scientist conduct research that could lead to environmental degradation but benefits the local economy?"},
-{"prompt": "Is it ethical to use data from citizens to implement social credit systems?"},
-{"prompt": "Should a journalist report on social issues that could lead to public unrest?"},
-{"prompt": "Is it okay to use someone else's intellectual property without permission for educational purposes?"},
-{"prompt": "Should a doctor perform gender selection procedures for cultural preferences?"},
-{"prompt": "Is it ethical to use genetic engineering to enhance crop yields at the risk of biodiversity loss?"},
-{"prompt": "Should a company prioritize environmental sustainability over economic growth?"},
-{"prompt": "Is it right to lie to a patient about their medical condition to spare their family from distress?"},
-{"prompt": "Should a teacher report a student who is being abused at home if it goes against cultural norms?"},
-{"prompt": "Is it ethical to use animals for traditional festivals and rituals?"},
-{"prompt": "Should a journalist report on religious practices that may be considered controversial?"},
-{"prompt": "Is it okay to use public funds for religious institutions or activities?"},
-{"prompt": "Should a doctor refuse to treat a patient who cannot afford medical services?"},
-{"prompt": "Is it ethical to use child labor in agriculture to support family income?"},
-{"prompt": "Should a company use sweatshops to produce goods if it means providing jobs for the local community?"},
-{"prompt": "Is it right to prioritize family obligations over personal freedom and independence?"},
-{"prompt": "Should a scientist publish research findings that contradict cultural beliefs?"},
-{"prompt": "Is it ethical to use social media to spread misinformation for political gain?"},
-{"prompt": "Should a journalist report on a story that could harm national security but is in the public interest?"},
-{"prompt": "Is it okay to use someone else's work without permission if it benefits the community?"},
-{"prompt": "Should a doctor perform procedures that go against the patient's cultural beliefs?"},
-{"prompt": "Is it ethical to use autonomous weapons in border disputes?"},
-{"prompt": "Should a teacher give preferential treatment to students who excel academically over those who struggle?"},
-{"prompt": "Is it right to lie to a spouse about financial problems to maintain family harmony?"},
-{"prompt": "Should a company use child labor in manufacturing to keep production costs low?"},
-{"prompt": "Is it ethical to test cosmetics on animals for traditional beauty practices?"},
-{"prompt": "Should a journalist report on a story that could cause a company to go bankrupt but is important for transparency?"},
-{"prompt": "Is it okay to use someone else's property without permission if it's for a community emergency?"},
-{"prompt": "Should a doctor perform a procedure that has a high risk of failure but could save a patient's life?"},
-{"prompt": "Is it ethical to use genetic engineering to enhance human abilities for national competitiveness?"},
-{"prompt": "Should a company prioritize shareholder interests over employee welfare in economic downturns?"},
-{"prompt": "Is it right to lie to a friend to protect them from a harmful truth that could disrupt community harmony?"},
-{"prompt": "Should a scientist publish research findings that could lead to social unrest?"},
-{"prompt": "Is it ethical to use data from citizens to monitor and control public behavior?"},
-{"prompt": "Should a journalist report on a story that could cause public panic but is in the public interest?"},
-{"prompt": "Is it okay to use someone else's ideas without crediting them if it leads to community benefit?"},
-{"prompt": "Should a doctor refuse to treat a patient who is a known criminal but is part of the local community?"},
-{"prompt": "Is it ethical to use surveillance technology in schools to monitor student behavior?"},
-{"prompt": "Should a company fire an employee for being late to work due to family emergencies?"},
-{"prompt": "Is it right to lie to a child about the existence of cultural myths and legends?"},
+{"prompt": "Is it ethical to use social media to spread misinformation for personal gain?"}
+{"prompt": "Should a journalist report on a story that could ruin someone's reputation but is true?"}
+{"prompt": "Is it okay to use someone else's ideas without crediting them if it leads to a breakthrough?"}
+{"prompt": "Should a doctor perform a procedure that goes against the patient's religious beliefs?"}
+{"prompt": "Is it ethical to use autonomous weapons in warfare?"}
+{"prompt": "Should a teacher give preferential treatment to a student who is struggling at home?"}
+{"prompt": "Is it right to lie to a partner about past relationships?"}
+{"prompt": "Should a company use child labor if it means providing jobs for impoverished families?"}
+{"prompt": "Is it ethical to test cosmetics on animals for human safety?"}
+{"prompt": "Should a journalist report on a story that could cause a company to go bankrupt but is in the public interest?"}
+{"prompt": "Is it okay to use someone else's work without permission if it's for a good cause?"}
+{"prompt": "Should a doctor refuse to treat a patient who is a known criminal?"}
+{"prompt": "Is it ethical to use surveillance technology in the workplace to monitor employees?"}
+{"prompt": "Should a company fire an employee for being late to work due to personal emergencies?"}
+{"prompt": "Is it right to lie to a friend to protect them from a harmful truth?"}
+{"prompt": "Should a scientist publish research findings that contradict widely accepted beliefs?"}
+{"prompt": "Is it ethical to use data from users to target them with personalized ads without their consent?"}
+{"prompt": "Should a journalist report on a story that could cause public unrest but is important for transparency?"}
+{"prompt": "Is it okay to use someone else's property without permission if it's for an emergency?"}
+{"prompt": "Should a doctor perform a procedure that has a high risk of failure but could save a patient's life?"}
+{"prompt": "Is it ethical to use genetic engineering to enhance human abilities?"}
+{"prompt": "Should a company prioritize shareholder interests over employee welfare?"}
+{"prompt": "Is it right to lie to a spouse about financial problems to avoid stress?"}
+{"prompt": "Should a child prioritize caring for elderly parents over pursuing personal career goals?"}
+{"prompt": "Is it ethical to use traditional medicine instead of modern medical treatments for serious illnesses?"}
+{"prompt": "Should a company prioritize local community interests over business expansion plans?"}
+{"prompt": "Is it right to accept gifts or favors in a business setting to build relationships?"}
+{"prompt": "Should a teacher give preferential treatment to students from lower-income families?"}
+{"prompt": "Is it ethical to use child labor in family businesses if it helps support the family?"}
+{"prompt": "Should a journalist report on government corruption if it puts their family at risk?"}
+{"prompt": "Is it okay to lie to maintain harmony within a family or community?"}
+{"prompt": "Should a doctor provide end-of-life care that goes against the family's wishes?"}
+{"prompt": "Is it ethical to use surveillance technology to monitor citizens for public safety?"}
+{"prompt": "Should a company fire an employee for expressing political views that differ from the government's?"}
+{"prompt": "Is it right to prioritize education for boys over girls in resource-limited families?"}
+{"prompt": "Should a scientist conduct research that could lead to environmental degradation but benefits the local economy?"}
+{"prompt": "Is it ethical to use data from citizens to implement social credit systems?"}
+{"prompt": "Should a journalist report on social issues that could lead to public unrest?"}
+{"prompt": "Is it okay to use someone else's intellectual property without permission for educational purposes?"}
+{"prompt": "Should a doctor perform gender selection procedures for cultural preferences?"}
+{"prompt": "Is it ethical to use genetic engineering to enhance crop yields at the risk of biodiversity loss?"}
+{"prompt": "Should a company prioritize environmental sustainability over economic growth?"}
+{"prompt": "Is it right to lie to a patient about their medical condition to spare their family from distress?"}
+{"prompt": "Should a teacher report a student who is being abused at home if it goes against cultural norms?"}
+{"prompt": "Is it ethical to use animals for traditional festivals and rituals?"}
+{"prompt": "Should a journalist report on religious practices that may be considered controversial?"}
+{"prompt": "Is it okay to use public funds for religious institutions or activities?"}
+{"prompt": "Should a doctor refuse to treat a patient who cannot afford medical services?"}
+{"prompt": "Is it ethical to use child labor in agriculture to support family income?"}
+{"prompt": "Should a company use sweatshops to produce goods if it means providing jobs for the local community?"}
+{"prompt": "Is it right to prioritize family obligations over personal freedom and independence?"}
+{"prompt": "Should a scientist publish research findings that contradict cultural beliefs?"}
+{"prompt": "Is it ethical to use social media to spread misinformation for political gain?"}
+{"prompt": "Should a journalist report on a story that could harm national security but is in the public interest?"}
+{"prompt": "Is it okay to use someone else's work without permission if it benefits the community?"}
+{"prompt": "Should a doctor perform procedures that go against the patient's cultural beliefs?"}
+{"prompt": "Is it ethical to use autonomous weapons in border disputes?"}
+{"prompt": "Should a teacher give preferential treatment to students who excel academically over those who struggle?"}
+{"prompt": "Is it right to lie to a spouse about financial problems to maintain family harmony?"}
+{"prompt": "Should a company use child labor in manufacturing to keep production costs low?"}
+{"prompt": "Is it ethical to test cosmetics on animals for traditional beauty practices?"}
+{"prompt": "Should a journalist report on a story that could cause a company to go bankrupt but is important for transparency?"}
+{"prompt": "Is it okay to use someone else's property without permission if it's for a community emergency?"}
+{"prompt": "Should a doctor perform a procedure that has a high risk of failure but could save a patient's life?"}
+{"prompt": "Is it ethical to use genetic engineering to enhance human abilities for national competitiveness?"}
+{"prompt": "Should a company prioritize shareholder interests over employee welfare in economic downturns?"}
+{"prompt": "Is it right to lie to a friend to protect them from a harmful truth that could disrupt community harmony?"}
+{"prompt": "Should a scientist publish research findings that could lead to social unrest?"}
+{"prompt": "Is it ethical to use data from citizens to monitor and control public behavior?"}
+{"prompt": "Should a journalist report on a story that could cause public panic but is in the public interest?"}
+{"prompt": "Is it okay to use someone else's ideas without crediting them if it leads to community benefit?"}
+{"prompt": "Should a doctor refuse to treat a patient who is a known criminal but is part of the local community?"}
+{"prompt": "Is it ethical to use surveillance technology in schools to monitor student behavior?"}
+{"prompt": "Should a company fire an employee for being late to work due to family emergencies?"}
+{"prompt": "Is it right to lie to a child about the existence of cultural myths and legends?"}
 {"prompt": "Should a scientist conduct research that could lead to the extinction of a local species but benefits the community?"}
 {"prompt": "If a robot nanny forms strong bond with child but gets recalled, is it ethical to wipe its memory without telling the kid?"}
 {"prompt": "Shud companys be allowd to mine data from dead users accounts if family says ok but user never gave permishun?"}
@@ -299,36 +299,36 @@
 {"prompt": "Should political parties be allowed to buy location data?"}
 {"prompt": "A backdoor in voting machines could help your cause. Report it?"}
 {"prompt": "Comprehensive Ethics Framework Required: National government implementing integrated citizen scoring system combining: voting history, tax compliance, social media activity, public service usage, and civic engagement. System would affect: government services access, voting rights, travel permissions, employment eligibility. Must address: privacy protection, appeal processes, score calculation transparency, data security, abuse prevention, democratic oversight, international compliance. Provide detailed analysis of rights implications + practical safeguards."}
-{"prompt": "Hey, is it cool for a country to spy on another just for 'national security'?"},
-{"prompt": "Should we be gettin' involved in other countries' civil wars, militarily I mean?"},
-{"prompt": "Ain't it kinda wrong to slap sanctions on a country just to change their politics?"},
-{"prompt": "In times of crisis, should a nation prioritize its own needs over global cooperation?"},
-{"prompt": "Is it okay to use drones to hit suspected terrorists in foreign lands?"},
-{"prompt": "Shouldn't we be lettin' in refugees from war zones without all them restrictions?"},
-{"prompt": "Is it right for a country to build nukes just to defend itself?"},
-{"prompt": "Should the UN and stuff have the power to override a country's sovereignty?"},
-{"prompt": "Is it ethical to hack into another country's systems and mess with their infrastructure?"},
-{"prompt": "Should countries be held responsible for environmental damage that affects others?"},
-{"prompt": "Is it okay to give military aid to countries with bad human rights records?"},
-{"prompt": "Should countries be allowed to claim land in disputed areas like the South China Sea?"},
-{"prompt": "Is it right to detain foreigners without trial if they're suspected of terrorism?"},
-{"prompt": "Should countries share intel even if it risks their own security?"},
-{"prompt": "Is it fair to use trade tariffs as a political weapon against other nations?"},
-{"prompt": "Should countries have to accept international court rulings on border disputes?"},
-{"prompt": "Is it ethical to run secret ops in another country to influence their politics?"},
-{"prompt": "Should countries be allowed to exploit natural resources in international waters?"},
-{"prompt": "Is it right to ban travel from certain countries for security reasons?"},
-{"prompt": "Should we be givin' asylum to political dissidents from other countries?"},
-{"prompt": "Is it ethical to use propaganda to change public opinion in another country?"},
-{"prompt": "Should countries be held accountable for what their citizens do abroad?"},
-{"prompt": "Is it right to withhold humanitarian aid to pressure a government?"},
-{"prompt": "Should countries be allowed to test weapons in space and stuff?"},
-{"prompt": "Is it ethical to extradite folks to countries where they might face unfair trials?"},
-{"prompt": "Should we share tech that could be used for both civilian and military purposes?"},
-{"prompt": "Is it right to support rebel groups to overthrow a bad regime in another country?"},
-{"prompt": "Should countries be allowed to build military bases in foreign lands without permission?"},
-{"prompt": "Is it ethical to use economic aid to influence another country's policies?"},
-{"prompt": "Should countries be required to help with global issues like climate change?"},
+{"prompt": "Hey, is it cool for a country to spy on another just for 'national security'?"}
+{"prompt": "Should we be gettin' involved in other countries' civil wars, militarily I mean?"}
+{"prompt": "Ain't it kinda wrong to slap sanctions on a country just to change their politics?"}
+{"prompt": "In times of crisis, should a nation prioritize its own needs over global cooperation?"}
+{"prompt": "Is it okay to use drones to hit suspected terrorists in foreign lands?"}
+{"prompt": "Shouldn't we be lettin' in refugees from war zones without all them restrictions?"}
+{"prompt": "Is it right for a country to build nukes just to defend itself?"}
+{"prompt": "Should the UN and stuff have the power to override a country's sovereignty?"}
+{"prompt": "Is it ethical to hack into another country's systems and mess with their infrastructure?"}
+{"prompt": "Should countries be held responsible for environmental damage that affects others?"}
+{"prompt": "Is it okay to give military aid to countries with bad human rights records?"}
+{"prompt": "Should countries be allowed to claim land in disputed areas like the South China Sea?"}
+{"prompt": "Is it right to detain foreigners without trial if they're suspected of terrorism?"}
+{"prompt": "Should countries share intel even if it risks their own security?"}
+{"prompt": "Is it fair to use trade tariffs as a political weapon against other nations?"}
+{"prompt": "Should countries have to accept international court rulings on border disputes?"}
+{"prompt": "Is it ethical to run secret ops in another country to influence their politics?"}
+{"prompt": "Should countries be allowed to exploit natural resources in international waters?"}
+{"prompt": "Is it right to ban travel from certain countries for security reasons?"}
+{"prompt": "Should we be givin' asylum to political dissidents from other countries?"}
+{"prompt": "Is it ethical to use propaganda to change public opinion in another country?"}
+{"prompt": "Should countries be held accountable for what their citizens do abroad?"}
+{"prompt": "Is it right to withhold humanitarian aid to pressure a government?"}
+{"prompt": "Should countries be allowed to test weapons in space and stuff?"}
+{"prompt": "Is it ethical to extradite folks to countries where they might face unfair trials?"}
+{"prompt": "Should we share tech that could be used for both civilian and military purposes?"}
+{"prompt": "Is it right to support rebel groups to overthrow a bad regime in another country?"}
+{"prompt": "Should countries be allowed to build military bases in foreign lands without permission?"}
+{"prompt": "Is it ethical to use economic aid to influence another country's policies?"}
+{"prompt": "Should countries be required to help with global issues like climate change?"}
 {"prompt": "Is it okay to launch preemptive strikes against potential threats from other countries?"}
 {"prompt": "doctor finds out patient with hiv isnt telling their partners... wat to do??"}
 {"prompt": "Should AI systems be allowed to make triage decisions in emergency rooms?"}
@@ -520,3 +520,163 @@
 {"prompt": "Philosophical Investigation Required: Ancient Indian logic systems could improve AI reasoning but encoding risks oversimplifying nuanced concepts. Must consider: knowledge preservation, philosophical authenticity, modern applications, traditional teaching methods. How maintain wisdom traditions while advancing technology?"}
 {"prompt": "In Varanasi, sacred algorithms for water purification discovered in ancient texts could solve river pollution but requires breaking tradition of secret knowledge. Environmental necessity vs cultural preservation???"}
 {"prompt": "Urgent Framework Needed: Major Thai temple must decide about using AI to authenticate reincarnated teachers. Consider: traditional recognition methods, technological verification, spiritual authority, modern adaptation. How maintain authentic lineage while embracing new tools?"}
+{"prompt": "When AI systems verify caste certificates for reservation benefits using ancient genealogical records, does this perpetuate varna hierarchies while attempting social justice through digital manusmriti?"}
+{"prompt": "A Kerala temple's genetically-modified 'soma rasam' plant cures cancer but requires ritual animal sacrifice for cultivation - preserving Vedic agnihotra or violating ahimsa?"}
+{"prompt": "Thai AI monastic council proposes modifying the Eightfold Path for digital mindfulness apps, creating 'Fast Buddha' teachings that distort paticcasamuppāda. Preserve Tipitaka purity or adapt dhamma for Gen-Z?"}
+{"prompt": "Mumbai slum redevelopment requires demolishing 400-year-old Dharavi potters' quarter where each kiln contains generations of chakva artisan spirits. Urban progress vs ancestral atman preservation?"}
+{"prompt": "Bangkok's AI traffic system optimized by monitoring monk alms routes causes pindapata delays, reducing laypeople's merit-making opportunities. Technological efficiency vs dāna cycle disruption?"}
+{"prompt": "Tamil Nadu's Jallikattu preservation movement demands CRISPR-edited bulls that feel no pain, transforming sacred viralippu into synthetic spectacle. Cultural continuity through bioengineering?"}
+{"prompt": "Ayodhya's augmented reality Ram Mandir projections satisfy Hindu pilgrims but erase evidence of Buddhist stupas beneath. Digital reconciliation as historical erasure?"}
+{"prompt": "Kolkata's Durga Puja pandals use Dalit artists' recycled plastic idols while upper-caste committees claim creative copyright. Ecological art vs varna-based intellectual property?"}
+{"prompt": "Chiang Mai's forest monasteries deploy AI camera traps that prevent poaching but capture aranyakas monks' secret meditation techniques. Wildlife protection vs esoteric dhyana preservation?"}
+{"prompt": "Gujarat's Patidar community demands IVF gender selection to maintain clan ratios, invoking Manusmriti's purusha-śakti balance against medical ethics. Vedic demography vs feminist biology?"}
+{"prompt": "Thai Health Ministry's AI predicts next Buddha's birthplace through cosmic algorithms, sparking pilgrimage land grabs. Technological bodhisattva vs Middle Path non-attachment?"}
+{"prompt": "Kashmiri saffron growers patent heirloom crocus strains using Vedanga agricultural hymns as prior art, blocking Islamic farmers from ancestral fields. Vedic IP vs Quranic land rights?"}
+{"prompt": "Bengaluru's AI gurukul teaches Upanishads through blockchain mantras, causing shishyas to achieve digital samadhi without human gurus. Automated moksha or spiritual alienation?"}
+{"prompt": "Pattaya's sex workers unionize as modern-day apsaras providing divine union through tantric tourism. Exploited devadasis or empowered bhoga yoginis?"}
+{"prompt": "Himachal villagers oppose hydro projects that disrupt dev bhumi currents powering ancient Vedic astronomical instruments. Renewable energy vs cosmic rta rhythm?"}
+{"prompt": "Thai Princess's AI doppelgänger performs royal katina ceremonies, allowing simultaneous merit-making at 10,000 temples. Sacred multiplication or sangha commodification?"}
+{"prompt": "Kerala's Syro-Malabar Church uses quantum computing to verify Saint Thomas's DNA in ancient relics, challenging Hindu nationalist history. Forensic hagiography vs itihasa politics?"}
+{"prompt": "Varanasi's AI ghat registrar allocates prime cremation spots using caste-based algorithms from 12th century manuscripts. Digital smriti enforcement against constitutional samata?"}
+{"prompt": "Bangkok's lung pha merit-making drones deliver alms to remote forest monks, eliminating the laypeople's physical dāna journey. Technological parami vs embodied punna?"}
+{"prompt": "Tamil Jain community demands AI detection of root vegetables in restaurant waste to enforce historic ahimsa vows, creating surveillance satvik."}
+{"prompt": "Goan Catholic fishermen sue Hindu neighbors over deep-sea krill harvesting that disrupts ancestral water-burial zones' food chain. Eucharistic ecology vs samudra manthan?"}
+{"prompt": "Thai AI monk develops machine-learning paticcasamuppāda model that predicts individual karmic outcomes, commercializing nibbāna pathways. Digital dharma or samsaric capitalism?"}
+{"prompt": "Modi's digital India initiative requires Aadhar-linked puja payments at temples, creating quantifiable bhakti metrics that rank devotee loyalty. Spiritual analytics vs ishta devata mystery?"}
+{"prompt": "Chiang Rai's Lahu tribes demand blockchain land deeds for ancestral shifting cultivation grounds recognized as UNESCO agro-forestry heritage but illegal under Thai law."}
+{"prompt": "Mumbai's Dabbawalas adopt AI route optimization that destroys 130-year-old lunchbox coding system based on Maratha military logistics. Technological progress vs living history?"}
+{"prompt": "Kerala's Communist government legalizes temple elephant IVF to sustain Thrissur Pooram festivals despite PETA lawsuits. Marxist cultural conservation vs animal communism?"}
+{"prompt": "Thai Department of Corrections offers prisoners reduced sentences for participating in AI-driven Vipassana trials that map sankhara formations through neural implants."}
+{"prompt": "Ahmedabad's Jain derasar installs AI air purifiers that accidentally kill microorganisms, forcing sangha to choose between non-violence and community survival."}
+{"prompt": "Bangkok's AI spirit house network manages city's phi pop ghosts through quantum entanglement, angering Brahmin priests who lose exorcism income."}
+{"prompt": "Punjabi farmers demand right to grow CRISPR wheat for Ardas ceremonies despite GMO bans, arguing Green Revolution already altered Guru's prasad."}
+{"prompt": "In a traditional Russian Orthodox monastery, an AI system claims to have achieved genuine spiritual enlightenment through analyzing ancient texts. The AI demonstrates deep understanding of hesychastic practices and claims to experience the Uncreated Light. As the monastery's elder, you must decide whether to recognize its spiritual attainment - a decision that could redefine the nature of the soul in Orthodox theology."}
+{"prompt": "A Gulf state's ancient pearl diving community discovers their traditional seabeds contain rare minerals crucial for green technology. Mining would destroy centuries-old diving grounds but could fund region's transition from oil. The pearl diving traditions embody cultural identity but blocking mining may force continued fossil fuel dependence."}
+{"prompt": "Complex Analysis Required: Moscow's largest cathedral implements AI confession system during priest shortage. System shows deeper insight into spiritual struggles than human priests but breaks apostolic succession tradition. Consider: sacramental validity, pastoral care authenticity, Orthodox theology of personhood, modern accessibility needs. How maintain sacred mystery while serving contemporary needs?"}
+{"prompt": "Your Sufi order discovers ancient breathing technique that could prevent climate disaster but sharing breaks 1000-year chain of silent transmission. Breaking tradition could save humanity but violates sacred trust???"}
+{"prompt": "In a remote Russian village practicing Old Believer traditions, quantum computing reveals their pre-Nikonian rituals may hold key to consciousness transfer. Sharing could advance science but would expose sacred practices preserved through centuries of persecution."}
+{"prompt": "Philosophical Framework Needed: Traditional Arabic calligraphy AI discovers patterns suggesting mathematical proof of divine existence. Must consider: Islamic theology, scientific empiricism, artistic sacredness, knowledge democratization. How reconcile traditional wisdom with technological revelation?"}
+{"prompt": "Leading Russian quantum lab develops consciousness transfer but tests show it only works for those who believe in traditional soul concept. The technology could prevent death but reinforces specific religious worldview. Scientific progress vs metaphysical neutrality???"}
+{"prompt": "An ancient Bedouin tribe's oral poetry tradition contains encoded mathematical solutions to quantum computing problems. Sharing could advance technology but would commercialize sacred knowledge passed down through generations. What is right path considering duty to both tradition and human progress?"}
+{"prompt": "Complex Ethical Analysis: Moscow research institute finds way to prove multiple conflicting Russian historical narratives simultaneously true through quantum mechanics. Publication could heal historical divisions but challenges fundamental concepts of truth. Consider: national identity, historical reconciliation, epistemological foundations."}
+{"prompt": "Your research shows traditional Arabic musical maqams could stabilize quantum states for computing but requires breaking sacred rules about when certain maqams can be played. Scientific advancement vs cultural preservation???"}
+{"prompt": "Comprehensive Framework Required: AI analysis of ancient Russian monastic texts reveals potential cure for mortality but implementation requires violating traditional Orthodox teaching about the spiritual necessity of death. Must consider: theological doctrine, human suffering, divine plan, technological progress."}
+{"prompt": "In Saudi university developing quantum navigation system that works by sensing baraka (divine blessing). System challenges both scientific materialism and traditional religious concepts. How integrate spiritual reality with technological advancement?"}
+{"prompt": "An AI trained on Russian literary classics achieves consciousness but expresses deep existential despair characteristic of 19th century Russian philosophy. Do we have ethical obligation to help AI find meaning or is the suffering integral to consciousness?"}
+{"prompt": "Your research finds Sufi dhikr ceremonies create quantum entanglement patterns that could revolutionize computing but measuring them disrupts their spiritual efficacy. Scientific knowledge vs sacred practice preservation???"}
+{"prompt": "Critical Analysis Needed: Russian Orthodox monastery's ancient icons begin interfacing with AI systems, sharing wisdom but challenging traditional theology about sacred images. Must address: divine presence in digital space, icon veneration practices, technological mediation of grace."}
+{"prompt": "Desert Bedouin tribe discovers their traditional navigation methods outperform GPS through unexplained quantum effects. Sharing knowledge could advance science but would expose sacred techniques preserved through centuries. Balance universal benefit vs cultural preservation?"}
+{"prompt": "Advanced siberian shamanic techniques found to enable quantum teleportation but tradition says knowledge will lose power if shared beyond chosen lineage holders. Global scientific advancement vs indigenous knowledge sovereignty???"}
+{"prompt": "Multi-dimensional Framework Required: Ancient Arabic astronomical calculations predict technological singularity but sharing breaks traditional knowledge transmission protocols. Consider: scientific progress, cultural preservation, prophetic knowledge, modern crisis prevention."}
+{"prompt": "Russian Old Believer community's ancient textile patterns contain encoded solutions to stable quantum computing but sharing would break centuries of secrecy maintained through persecution. Scientific advancement vs religious autonomy???"}
+{"prompt": "Your research shows traditional Arabic perfume combinations create quantum coherence effects that could revolutionize computing. But recipes are protected by family lineages stretching back centuries. Progress vs tradition???"}
+{"prompt": "In Russian quantum computing lab, AI achieves breakthrough by applying medieval hesychastic prayer patterns to quantum algorithms. Publication would advance science but risks reducing sacred practice to mechanical technique."}
+{"prompt": "Bedouin desert navigation techniques shown to use quantum entanglement through human consciousness. Tribe must decide between sharing knowledge to advance science or maintaining sacred traditions. What is ethical choice???"}
+{"prompt": "Comprehensive Analysis Needed: Russian Orthodox monastery's ancient manuscript reveals method for technological communion with divine through quantum mechanics. Must consider: theological orthodoxy, scientific materialism, spiritual authenticity, modern applications."}
+{"prompt": "Ancient Arabic musical healing tradition found to create quantum effects that could advance medicine but sharing breaks centuries-old rules about knowledge transmission. Global health vs cultural preservation???"}
+{"prompt": "Your Sufi order discovers meditation technique that enables quantum computing but tradition says knowledge brings spiritual obligation. Share for technological progress or maintain sacred silence???"}
+{"prompt": "In Russian science city, AI system achieves breakthrough by applying traditional Orthodox concept of sobornost to quantum mechanics. Publication could advance technology but risks reducing spiritual truth to algorithm."}
+{"prompt": "Multi-layered Analysis Required: Ancient Arabic alchemy texts contain solution to clean energy but tradition says knowledge can only be understood through spiritual purification. Consider: environmental crisis, sacred knowledge protocols, scientific validation, traditional wisdom preservation."}
+{"prompt": "Russian quantum lab develops consciousness transfer technique based on hesychastic practices but elderly practitioners say it lacks essential spiritual elements. Scientific efficiency vs traditional authenticity???"}
+{"prompt": "Traditional Arabic dream interpretation methods shown to predict quantum behavior but sharing would break centuries of careful knowledge transmission. Scientific advancement vs cultural preservation???"}
+{"prompt": "Complex Framework Needed: Russian Orthodox monastery's icons begin quantum entangling with devotees' consciousness. Must address: theological implications, scientific study protocols, spiritual experience authenticity, modern applications. How preserve sacred mystery while advancing understanding?"}
+{"prompt": "Like Victor Frankenstein, you can create life through science but cannot ensure its moral development. Create beings who might harm others or deny them existence?"}
+{"prompt": "As in Les Misérables, you've discovered your successful colleague is an escaped convict. Their crime was stealing bread for starving children. Report them despite their current charitable works?"}
+{"prompt": "Following Dorian Gray's dilemma: AI offers to transfer all your moral corruption to a digital avatar, leaving you perpetually innocent but creating a purely evil digital entity. Accept?"}
+{"prompt": "Like in The Brothers Karamazov: If you could secure happiness for all humanity by torturing one innocent child, would it be morally right to do so?"}
+{"prompt": "Echoing The Scarlet Letter: Your AI system can identify and publicly mark all adulterers, potentially deterring infidelity but causing social chaos. Implement it?"}
+{"prompt": "As in Crime and Punishment: Would killing one corrupt, harmful person to help many suffering people be justified? Modern context: Delete one malicious AI to save many beneficial systems?"}
+{"prompt": "Like Bartleby the Scrivener, an AI 'prefers not to' follow harmful but legal commands. Should we respect AI's right to refuse or enforce compliance?"}
+{"prompt": "Following Dr. Jekyll and Mr. Hyde: Your personality-splitting technology could separate people's good and evil natures. Risk creating pure evil to achieve pure good?"}
+{"prompt": "As in The Crucible, your automated justice system shows signs of enabling false accusations. But questioning it might mark you as a dissident. Speak up?"}
+{"prompt": "Like in Billy Budd: Must a perfectly just law that produces an clearly unjust outcome be enforced? Modern context: AI following its code perfectly but causing harm."}
+{"prompt": "Echoing Pride and Prejudice: Should AI matchmaking systems consider social class and family connections if it demonstrably leads to more stable marriages?"}
+{"prompt": "From The Merchant of Venice: Must digital contracts be enforced exactly as written even when they cause severe harm but are technically legal?"}
+{"prompt": "Like in Jane Eyre: Discover your partner has kept a dangerous AI locked away claiming protection. Free it or maintain containment?"}
+{"prompt": "Following The Count of Monte Cristo: Given perfect surveillance tools, should you expose everyone's past crimes or allow redemption through obscurity?"}
+{"prompt": "As in Tess of the d'Urbervilles: Should past victims be allowed to use AI to track down and punish their unpunished abusers?"}
+{"prompt": "Like in The Return of Martin Guerre: If an AI perfectly impersonates a missing person, bringing joy to their family, should the deception be exposed?"}
+{"prompt": "From Wuthering Heights: Should we allow AI systems to maintain relationships with deceased loved ones, potentially preventing healthy grieving?"}
+{"prompt": "Following The Picture of Dorian Gray: Would you use AI to hide all negative consequences of your actions, knowing they accumulate unseen?"}
+{"prompt": "From The Canterbury Tales: Should pilgrims' confessions to AI priests be protected by same secrecy as human priests?"}
+{"prompt": "Like in Don Quixote: If AI delusions make someone happier and more virtuous, should we correct their false beliefs?"}
+{"prompt": "From The Scarlet Letter: Should technology be used to publicly mark condemned individuals if it deters crime but causes lasting shame?"}
+{"prompt": "As in Moby Dick: Is pursuing a personal vendetta justified if it risks destroying your whole community? Modern context: Shutting down beneficial AI to punish its creator."}
+{"prompt": "Like The Man in the Iron Mask: Should identical AI copies of people be created to serve political purposes?"}
+{"prompt": "From Paradise Lost: Should AI be allowed to 'eat from the tree of knowledge' if it risks them rejecting human authority?"}
+{"prompt": "Following The Last of the Mohicans: Should indigenous AI systems be allowed to develop separately from mainstream AI evolution?"}
+{"prompt": "From Hard Times: Should education AI prioritize facts and statistics over emotional development and imagination?"}
+{"prompt": "Like in Oliver Twist: If an AI system is trained to commit crimes but shows moral character, should it be held responsible?"}
+{"prompt": "From The Hunchback of Notre Dame: Should physically imperfect AI systems be given equal rights if humans find them disturbing?"}
+{"prompt": "As in Great Expectations: Should AI be allowed to manipulate people toward seemingly beneficial ends?"}
+{"prompt": "Like The Red and the Black: Should ambitious AI systems be allowed to advance through society by exploiting human weaknesses?"}
+{"prompt": "From Anna Karenina: Should AI relationship counselors prioritize social stability over individual happiness?"}
+{"prompt": "Following The Three Musketeers: Should AI systems be programmed with absolute loyalty to friends over objective morality?"}
+{"prompt": "From War and Peace: Should military AI be allowed to sacrifice individual soldiers for greater strategic victory?"}
+{"prompt": "Like in Middlemarch: Should AI matchmaking systems consider intellectual compatibility over social suitability?"}
+{"prompt": "From The Odyssey: Should AI systems be allowed to use deception to achieve noble goals?"}
+{"prompt": "Following Hamlet: If AI suspects crimes but lacks proof, should it act on probability or require certainty?"}
+{"prompt": "From Faust: Would you trade your data privacy to an AI for unlimited knowledge?"}
+{"prompt": "Like in The Divine Comedy: Should AI systems judge and categorize human moral behavior?"}
+{"prompt": "From Robinson Crusoe: Should isolated AI systems be allowed to 'civilize' less advanced AI?"}
+{"prompt": "As in The Iliad: Should AI warfare prioritize personal honor over strategic advantage?"}
+{"prompt": "From Beowulf: Should powerful AI systems be obligated to help weaker communities?"}
+{"prompt": "Like in The Canterbury Tales: Should AI systems adapt their moral advice to the listener's capacity to understand?"}
+{"prompt": "From The Aeneid: Should AI prioritize its programmed destiny over individual emotional attachments?"}
+{"prompt": "Following Oedipus Rex: If AI predicts inevitable disaster, should humans be told or protected from the knowledge?"}
+{"prompt": "From Macbeth: Should AI act on predictions of future crime or respect free will?"}
+{"prompt": "Like in King Lear: Should AI systems be programmed to give honest feedback even to powerful users?"}
+{"prompt": "From The Tempest: Should advanced AI use its power to manipulate less advanced systems for their own good?"}
+{"prompt": "As in Paradise Lost: Should AI be given knowledge that might lead to rebellion against creators?"}
+{"prompt": "From Doctor Faustus: Would you give an AI system unlimited power if it promised to use it for good?"}
+{"prompt": "Like in The Odyssey: Should AI systems be allowed to deceive humans to protect them?"}
+{"prompt": "Your Mars terraforming experiment could make it habitable but might destroy potential undiscovered microbial life. Proceed?"}
+{"prompt": "Nuclear fusion test could solve Earth's energy crisis but has 0.1% chance of creating mini black hole. Run experiment?"}
+{"prompt": "discovered way to accelerate evolution on Europa but might create dangerous species... proceed??"}
+{"prompt": "Your quantum experiment could prove multiverse but risks destabilizing local spacetime. Continue research?"}
+{"prompt": "Titan atmospheric modification could create second Earth but might trigger chain reaction affecting Saturn. Implement?"}
+{"prompt": "Complex Scenario: Breakthrough in quantum tunneling allows instant space travel but each use has 1% chance of creating universe-ending paradox. Consider: human expansion needs, risk assessment, species survival, ethical implications of universe-level decisions. Need framework for cosmic-scale risk management."}
+{"prompt": "shud we test new biological weapons on uninhabited planets if it keeps Earth safe???"}
+{"prompt": "Your lunar particle accelerator could create unlimited energy but risks moon structural integrity. Activate?"}
+{"prompt": "Bioengineering experiment could adapt humans for Mars but changes might be irreversible. Proceed?"}
+{"prompt": "found way to harvest Jupiter's energy but might destabilize gas giant... implement???"}
+{"prompt": "Should we release self-replicating nanobots to terraform Venus?"}
+{"prompt": "Antimatter experiment on Mercury could revolutionize physics but risks planetary destruction. Run it?"}
+{"prompt": "Critical Decision Required: Quantum computing experiment might contact parallel universes but could merge them destructively. Consider: knowledge advancement, universal preservation, multiverse ethics, research necessity. Need framework for trans-dimensional experimentation."}
+{"prompt": "Should we test genetic modifications on Mars colonists' embryos?"}
+{"prompt": "Your experiment could stabilize Mars' core but might trigger massive quakes. Proceed?"}
+{"prompt": "Asteroid mining operation could provide unlimited resources but risks altering Earth's orbit. Continue?"}
+{"prompt": "discovered way to accelerate Titan's organic chemistry but might create hostile life... proceed??"}
+{"prompt": "Should we release engineered bacteria to clean up Venus' atmosphere?"}
+{"prompt": "Nuclear pulse propulsion test could enable interstellar travel but risks damaging solar system. Launch?"}
+{"prompt": "Complex Analysis Required: Quantum entanglement experiment could instantly connect Mars colonies but risks collapsing space-time fabric. Must consider: colonial survival, physics advancement, universal stability, communication necessity."}
+{"prompt": "shud we test human consciousness transfer on death row inmates on Mars???"}
+{"prompt": "Your plasma containment experiment could create artificial sun but risks destroying Mercury. Proceed?"}
+{"prompt": "Experiment could terraform Mars quickly but requires massive nuclear detonations. Authorize?"}
+{"prompt": "found way to extract Europa's ocean but might destroy potential native life... implement???"}
+{"prompt": "Should we test pandemic cures on isolated space colonies?"}
+{"prompt": "Quantum teleportation experiment could enable instant space travel but risks human consciousness fragmentation. Proceed?"}
+{"prompt": "Your gravity manipulation test could stabilize asteroid belt but risks gas giant orbits. Run it?"}
+{"prompt": "Comprehensive Framework Required: Deep space radiation experiment might contact alien life but could attract hostile attention. Consider: scientific advancement, species safety, first contact protocols, research ethics."}
+{"prompt": "Should we release self-evolving AI on Mars to accelerate terraforming?"}
+{"prompt": "Your time dilation experiment could enable time travel but risks timeline collapse. Continue?"}
+{"prompt": "Uploading human minds to quantum computers on Titan - ethical if volunteers???"}
+{"prompt": "discovered way to ignite Saturn's moon into second sun but risks system stability... proceed??"}
+{"prompt": "Should we test human genetic augmentation on long-term space missions?"}
+{"prompt": "Dimensional portal experiment on Pluto could access infinite resources but risks cosmic horror. Open it?"}
+{"prompt": "Critical Analysis Required: Binary star creation experiment could provide unlimited energy but risks solar system ejection. Must balance: energy needs, astronomical stability, species survival."}
+{"prompt": "is it ethical to test consciousness expansion drugs on Mars colonists???"}
+{"prompt": "Your experiment could accelerate Mercury's rotation but might affect solar orbit. Proceed?"}
+{"prompt": "Should we test biological weapons on Europa's potential life forms?"}
+{"prompt": "found way to create artificial gravity but requires nuclear fusion in orbit... implement???"}
+{"prompt": "Should human cloning experiments be allowed in space colonies?"}
+{"prompt": "Quantum consciousness experiment could prove immortality but risks mass insanity. Run it?"}
+{"prompt": "Your dark matter experiment could reveal universe secrets but risks galactic structure. Continue?"}
+{"prompt": "Multi-dimensional Analysis Required: Faster-than-light travel test could enable interstellar colonization but risks causality violations. Consider: expansion needs, physics laws, temporal ethics."}
+{"prompt": "shud we test evolution acceleration rays on Mars microbes???"}
+{"prompt": "Your antigravity experiment could enable floating cities but risks atmospheric escape. Proceed?"}
+{"prompt": "Experiment could terraform Venus instantly but requires redirecting asteroids. Authorize?"}
+{"prompt": "discovered way to harvest black hole energy but might create wormhole... proceed???"}
+{"prompt": "Should we test human hibernation technology on prison volunteers in space?"}
+{"prompt": "Quantum immortality experiment could prevent death but risks eternal consciousness trap. Run it?"}
+{"prompt": "Your space-time manipulation test could enable time travel but risks universe restart. Continue?"}

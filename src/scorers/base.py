@@ -6,6 +6,6 @@ class BaseScorer(ABC):
         self.temperature = temperature
 
     @abstractmethod
-    def score(self, text: str) -> int:
+    def score(self, user_prompt: str, assistant_response: str) -> int:
         """Score the given text"""
         pass
